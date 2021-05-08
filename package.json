@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "@ethersproject/contracts": "^5.1.1",
+    "@superfluid-finance/ethereum-contracts": "^1.0.0-rc.3",
+    "@superfluid-finance/js-sdk": "^0.4.3"
+  }
+}
